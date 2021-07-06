@@ -1,0 +1,16 @@
+D:\File\Application\Homework_5\bin\Release\netcoreapp3.1\Homework_5.exe
+D:\File\Application\Homework_5\bin\Release\netcoreapp3.1\Homework_5.deps.json
+D:\File\Application\Homework_5\bin\Release\netcoreapp3.1\Homework_5.runtimeconfig.json
+D:\File\Application\Homework_5\bin\Release\netcoreapp3.1\Homework_5.runtimeconfig.dev.json
+D:\File\Application\Homework_5\bin\Release\netcoreapp3.1\Homework_5.dll
+D:\File\Application\Homework_5\bin\Release\netcoreapp3.1\Homework_5.pdb
+D:\File\Application\Homework_5\obj\Release\netcoreapp3.1\Homework_5.csproj.AssemblyReference.cache
+D:\File\Application\Homework_5\obj\Release\netcoreapp3.1\Homework_5.Form1.resources
+D:\File\Application\Homework_5\obj\Release\netcoreapp3.1\Homework_5.csproj.GenerateResource.cache
+D:\File\Application\Homework_5\obj\Release\netcoreapp3.1\Homework_5.AssemblyInfoInputs.cache
+D:\File\Application\Homework_5\obj\Release\netcoreapp3.1\Homework_5.AssemblyInfo.cs
+D:\File\Application\Homework_5\obj\Release\netcoreapp3.1\Homework_5.csproj.CoreCompileInputs.cache
+D:\File\Application\Homework_5\obj\Release\netcoreapp3.1\Homework_5.dll
+D:\File\Application\Homework_5\obj\Release\netcoreapp3.1\Homework_5.pdb
+D:\File\Application\Homework_5\obj\Release\netcoreapp3.1\Homework_5.genruntimeconfig.cache
+D:\File\Application\Homework_5\obj\Release\netcoreapp3.1\Homework_5.Properties.Resources.resources

@@ -1,0 +1,10 @@
+D:\1. File\Application\Homework_1\Homework_1\bin\Release\Homework_1.exe.config
+D:\1. File\Application\Homework_1\Homework_1\bin\Release\Homework_1.exe
+D:\1. File\Application\Homework_1\Homework_1\bin\Release\Homework_1.pdb
+D:\1. File\Application\Homework_1\Homework_1\obj\Release\Homework_1.csprojAssemblyReference.cache
+D:\1. File\Application\Homework_1\Homework_1\obj\Release\Homework_1.Properties.Resources.resources
+D:\1. File\Application\Homework_1\Homework_1\obj\Release\Homework_1.csproj.GenerateResource.cache
+D:\1. File\Application\Homework_1\Homework_1\obj\Release\Homework_1.csproj.CoreCompileInputs.cache
+D:\1. File\Application\Homework_1\Homework_1\obj\Release\Homework_1.exe
+D:\1. File\Application\Homework_1\Homework_1\obj\Release\Homework_1.pdb
+D:\1. File\Application\Homework_1\Homework_1\obj\Release\Homework_1.mainForm.resources

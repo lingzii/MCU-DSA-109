@@ -1,0 +1,16 @@
+D:\File\Application\Homework_4\bin\Debug\netcoreapp3.1\Homework_4.exe
+D:\File\Application\Homework_4\bin\Debug\netcoreapp3.1\Homework_4.deps.json
+D:\File\Application\Homework_4\bin\Debug\netcoreapp3.1\Homework_4.runtimeconfig.json
+D:\File\Application\Homework_4\bin\Debug\netcoreapp3.1\Homework_4.runtimeconfig.dev.json
+D:\File\Application\Homework_4\bin\Debug\netcoreapp3.1\Homework_4.dll
+D:\File\Application\Homework_4\bin\Debug\netcoreapp3.1\Homework_4.pdb
+D:\File\Application\Homework_4\obj\Debug\netcoreapp3.1\Homework_4.csprojAssemblyReference.cache
+D:\File\Application\Homework_4\obj\Debug\netcoreapp3.1\Homework_4.Form1.resources
+D:\File\Application\Homework_4\obj\Debug\netcoreapp3.1\Homework_4.csproj.GenerateResource.cache
+D:\File\Application\Homework_4\obj\Debug\netcoreapp3.1\Homework_4.AssemblyInfoInputs.cache
+D:\File\Application\Homework_4\obj\Debug\netcoreapp3.1\Homework_4.AssemblyInfo.cs
+D:\File\Application\Homework_4\obj\Debug\netcoreapp3.1\Homework_4.csproj.CoreCompileInputs.cache
+D:\File\Application\Homework_4\obj\Debug\netcoreapp3.1\Homework_4.dll
+D:\File\Application\Homework_4\obj\Debug\netcoreapp3.1\Homework_4.pdb
+D:\File\Application\Homework_4\obj\Debug\netcoreapp3.1\Homework_4.genruntimeconfig.cache
+D:\File\Application\Homework_4\obj\Debug\netcoreapp3.1\Homework_4.Properties.Resources.resources
